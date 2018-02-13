@@ -28,6 +28,13 @@ public class Main
 
 		System.out.println("Programa Terminado"+nombre);
 
+		int numero3=100;
+
+		while(numero3>0){
+			System.out.println("-> "+numero3)
+			numero3--;
+		}
+
 	}
 
 
